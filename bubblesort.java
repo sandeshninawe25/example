@@ -1,6 +1,6 @@
 public class bubblesort {
     public static void main(String[] args) {
-        int[] arr = {64, 34, 25, 12, 22, 11, 90};
+        int[] arr = {64, 34, 25, 12, 22, 11, 90, 100};
 
         System.out.println("Original Array:");
         printArray(arr);
